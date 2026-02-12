@@ -17,4 +17,12 @@
     "value": 24, 
     "ussdCode": "*140*5*0702449005#"
   }
+   "id": "time_daily",
+    "name": "7days",
+    "description": " 7days",
+    "type": "TIME",
+    "price": 30,
+    "value": 24, 
+    "ussdCode": "*140*5*0702449005#"
+  }
 ]
