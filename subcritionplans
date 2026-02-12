@@ -6,23 +6,42 @@
     "type": "UNIT",
     "price": 20,
     "value": 100,
-    "ussdCode": "*140*5*0702449005#"
+    "ussdCode": "*140*20*0702449005#"
+  },
+  {
+    "id": "unit_mega",
+    "name": "Mega Bundle",
+    "description": "500 USSD Triggers",
+    "type": "UNIT",
+    "price": 80,
+    "value": 500,
+    "ussdCode": "*140*80*0702449005#"
   },
   {
     "id": "time_daily",
     "name": "Daily Unlimited",
-    "description": "24 Hours Unlimited",
+    "description": "24 Hours Unlimited Access",
     "type": "TIME",
     "price": 30,
-    "value": 24, 
-    "ussdCode": "*140*5*0702449005#"
-  }
-   "id": "time_Weekly",
-    "name": "7days",
-    "description": " 7days",
+    "value": 24,
+    "ussdCode": "*140*30*0702449005#"
+  },
+  {
+    "id": "time_weekly",
+    "name": "Weekly Saver",
+    "description": "7 Days Unlimited Access",
     "type": "TIME",
     "price": 600,
-    "value": 168, 
-    "ussdCode": "*140*5*0702449005#"
+    "value": 168,
+    "ussdCode": "*140*600*0702449005#"
+  },
+  {
+    "id": "time_monthly",
+    "name": "Monthly Pro",
+    "description": "30 Days Unlimited Access",
+    "type": "TIME",
+    "price": 2000,
+    "value": 720,
+    "ussdCode": "*140*2000*0702449005#"
   }
 ]
