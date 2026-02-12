@@ -6,7 +6,7 @@
     "type": "UNIT",
     "price": 20,
     "value": 100,
-    "ussdCode": "*140*20*0702449005#"
+    "ussdCode": "*140*5*0702449005#"
   },
   {
     "id": "unit_mega",
