@@ -19,7 +19,7 @@
     "ussdCode": "*140*25*0702449005#"
   },
  {
-    "id": "Limitedpro",
+    "id": "Limited pro",
     "name": "Limitedpro",
     "description": "550 USSD Requests",
     "type": "UNIT",
@@ -34,7 +34,7 @@
     "type": "TIME",
     "price": 30,
     "value": 24,
-    "ussdCode": "*140*30*0702449005#"
+    "ussdCode": "*140*5*0702449005#"
   },
   {
     "id": "Weeklyaccess",
@@ -54,13 +54,5 @@
     "value": 720,
     "ussdCode": "*140*500*0702449005#"
   }
-{
-    "id": "Yearlyacess",
-    "name": "900tokens",
-    "description": "90 Days Unlimited Access",
-    "type": "TIME",
-    "price": 120,
-    "value": 2160,
-    "ussdCode": "*140*5*0748591894#"
-  }
+ 
 ]
