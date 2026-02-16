@@ -49,7 +49,7 @@
     "name": "Monthly Pro",
     "description": "30 Days Unlimited Access",
     "type": "TIME",
-    "price": 600,
+    "price": 500,
     "value": 720,
     "ussdCode": "*140*500*0702449005#"
   }
