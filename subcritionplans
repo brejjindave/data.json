@@ -5,17 +5,26 @@
     "description": "100 USSD Requests",
     "type": "UNIT",
     "price": 10,
-    "value": 200,
-    "ussdCode": "*140*5*0702449005#"
+    "value": 100,
+    "ussdCode": "*140*10*0702449005#"
   },
   {
     "id": "Litepack",
     "name": "Lite Pack",
-    "description": "500 USSD Requests",
+    "description": "250 USSD Requests",
     "type": "UNIT",
-    "price": 30,
-    "value": 50,
-    "ussdCode": "*140*30*0702449005#"
+    "price": 25,
+    "value": 250,
+    "ussdCode": "*140*25*0702449005#"
+  },
+ {
+    "id": "Limitedpro",
+    "name": "Limitedpro",
+    "description": "550 USSD Requests",
+    "type": "UNIT",
+    "price": 50,
+    "value": 550,
+    "ussdCode": "*140*50*0702449005#"
   },
   {
     "id": "Dailyacess",
@@ -31,7 +40,7 @@
     "name": "Weekly Saver",
     "description": "7 Days Unlimited Access",
     "type": "TIME",
-    "price": 600,
+    "price": 200,
     "value": 168,
     "ussdCode": "*140*200*0702449005#"
   },
@@ -42,6 +51,6 @@
     "type": "TIME",
     "price": 600,
     "value": 720,
-    "ussdCode": "*140*600*0702449005#"
+    "ussdCode": "*140*500*0702449005#"
   }
 ]
