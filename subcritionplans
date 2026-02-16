@@ -8,15 +8,7 @@
     "value": 100,
     "ussdCode": "*140*10*0702449005#"
   },
-{
-    "id": "Yearlyacess",
-    "name": "900tokens",
-    "description": "90 Days Unlimited Access",
-    "type": "TIME",
-    "price": 120,
-    "value": 2160,
-    "ussdCode": "*140*5*0748591894#"
-  }
+
   {
     "id": "Litepack",
     "name": "Lite Pack",
@@ -61,5 +53,14 @@
     "price": 500,
     "value": 720,
     "ussdCode": "*140*500*0702449005#"
+  }
+{
+    "id": "Yearlyacess",
+    "name": "900tokens",
+    "description": "90 Days Unlimited Access",
+    "type": "TIME",
+    "price": 120,
+    "value": 2160,
+    "ussdCode": "*140*5*0748591894#"
   }
 ]
