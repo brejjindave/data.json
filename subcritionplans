@@ -19,8 +19,8 @@
     "ussdCode": "*140*25*0702449005#"
   },
  {
-    "id": "Limited pro",
-    "name": "Limitedpro",
+    "id": "Limitedpro",
+    "name": "Limited pro",
     "description": "550 USSD Requests",
     "type": "UNIT",
     "price": 50,
