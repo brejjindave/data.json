@@ -9,7 +9,7 @@
     "ussdCode": "*140*10*0702449005#"
   },
 {
-    "id": "MonthlyAcess22",
+    "id": "yearlyacess",
     "name": "900 tokens",
     "description": "90 Days Unlimited Access",
     "type": "TIME",
