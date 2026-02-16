@@ -9,8 +9,8 @@
     "ussdCode": "*140*10*0702449005#"
   },
 {
-    "id": "yearlyacess",
-    "name": "900 tokens",
+    "id": "Yearlyacess",
+    "name": "900tokens",
     "description": "90 Days Unlimited Access",
     "type": "TIME",
     "price": 120,
