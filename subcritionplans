@@ -8,7 +8,6 @@
     "value": 100,
     "ussdCode": "*140*10*0748591894#"
   },
-
   {
     "id": "Litepack",
     "name": "Lite Pack",
@@ -45,7 +44,6 @@
     "value": 168,
     "ussdCode": "*140*200*0748591894#"
   },
-  
   {
     "id": "MonthlyAcess",
     "name": "Monthly Pro",
@@ -55,5 +53,4 @@
     "value": 720,
     "ussdCode": "*140*500*0748591894#"
   }
- 
 ]
