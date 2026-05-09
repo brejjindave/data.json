@@ -42,7 +42,7 @@
     "type": "TIME",
     "price": 200,
     "value": 168,
-    "ussdCode": "*140*200*0702449005"
+    "ussdCode": "*140*200*0702449005#"
   },
   {
     "id": "MonthlyAcess",
